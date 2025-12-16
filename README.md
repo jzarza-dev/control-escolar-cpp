@@ -1,19 +1,29 @@
-# Sistema de Control Escolar – C++
+# 🎓 Sistema de Control Escolar en C++
 
-## Descripción
-Sistema desarrollado en C++ aplicando Programación Orientada a Objetos,
-orientado al registro y consulta de información.
+Proyecto académico desarrollado en **C++** aplicando los principios de  
+**Programación Orientada a Objetos (POO)**.
 
-## Funcionalidades
-- Menú interactivo
-- Registro y consulta de datos
-- Validación básica de información
+Este sistema permite gestionar información básica de un entorno escolar
+de manera estructurada y modular.
 
-## Tecnologías
-- C++
-- Programación Orientada a Objetos
+---
 
-## Compilación y ejecución
+## 🚀 Funcionalidades
+- Menú interactivo en consola
+- Registro de alumnos, profesores y materias
+- Consulta de información almacenada
+- Validación básica de datos
+
+---
+
+## 🛠 Tecnologías utilizadas
+- Lenguaje: **C++**
+- Paradigma: **Programación Orientada a Objetos**
+- Compilador: `g++`
+
+---
+
+## ▶️ Compilación y ejecución
 ```bash
 g++ main.cpp -o control
 ./control
